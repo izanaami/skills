@@ -1,3 +1,8 @@
+---
+name: api_test_coverage
+description: 自动识别代码仓库中的公共API，匹配测试用例并生成详细的覆盖率分析报告（Excel/Markdown），支持多语言并提供优化建议。
+---
+
 # Skill: API Test Coverage Analysis
 
 ## Overview
