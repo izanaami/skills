@@ -148,7 +148,7 @@ python -m skills.api_test_coverage analyze \
 | Column | Description |
 |--------|-------------|
 | API类别 | Functional category of the API |
-| host还是device接口 | Platform type (host/device/client/server) |
+| host还是device接口(optional) | Platform type (host/device/client/server) |
 | API Name | Name of the API function/method |
 | API定义头文件 | Source file where API is defined |
 | 是否有测试用例 | Test coverage status (YES/NO) |
